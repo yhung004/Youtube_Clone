@@ -1,0 +1,36 @@
+/*Taking care of the top border first*/
+.top-header {
+    display: flex;
+    
+}
+.hamburger-menu {
+    width: 30px;
+    height: 40px;
+    margin-left: 30px;
+}
+.youtube-logo {
+    width: 100px;
+    height: 40px;
+}
+.top1 {
+    background-color:aquamarine;
+    margin-right: 100px;
+
+}
+.search-box {
+    width: 400px;
+    height: 30px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.search-button {
+    width: 40px;
+    height: 40px;
+}
+.microphone {
+    width: 40px;
+    height: 40px;
+}
+.top2 {
+    background-color:pink;
+}

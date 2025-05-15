@@ -1,0 +1,27 @@
+.container {
+    width: 400px;
+    border: 2px solid rgb(225, 220, 220);
+    border-radius: 3px;
+    padding-left: 10px;
+    height: 150px;
+}
+.inboxes {
+    color: rgb(189, 185, 185);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 0;
+}
+.bottom-container {
+    margin-top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.thumbnail {
+    width: 80px;
+    height: 90px;
+    border-radius: 50px;
+}
+.inner-container {
+    display: flex;
+    flex-direction: column;
+}

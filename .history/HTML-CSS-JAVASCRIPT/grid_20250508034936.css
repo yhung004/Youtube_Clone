@@ -1,0 +1,17 @@
+section {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.imgt {
+    width: 100%;
+    border-radius: 5px;
+}
+.namep {
+    font-family: Roboto,Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+.cat-profile {
+    width: 20px;
+    border-radius: 30px;
+}

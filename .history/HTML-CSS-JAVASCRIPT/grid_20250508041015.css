@@ -1,0 +1,39 @@
+section {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    
+}
+.imgt {
+    width: 100%;
+    border-radius: 5px;
+}
+.namep {
+    font-family: Roboto,Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+.profile {
+    display: grid;
+    grid-template-columns: 40px 1fr;
+    align-items: center;
+}
+.cat-profile {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+    border-radius:50%;
+}
+.text {
+    color: gray;
+    padding-left: 10px;
+    font-size: 17px;
+}
+.button1 {
+    background-color:rgba(55, 98, 227, 0.987);
+    color: whitesmoke;
+    border-radius:3px;
+    border:none;
+    font-size: 20px;
+    padding:8px 15px;
+    cursor: pointer;
+}

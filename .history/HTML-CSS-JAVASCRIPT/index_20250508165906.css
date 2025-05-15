@@ -1,0 +1,9 @@
+.main-container {
+    border: 12px solid black;
+}
+.each-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}

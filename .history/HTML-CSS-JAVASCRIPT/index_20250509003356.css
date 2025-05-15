@@ -1,0 +1,5 @@
+.container {
+    max-width: 500px;
+    border: 2px solid rgb(225, 220, 220);
+    border-radius: 3px;
+}

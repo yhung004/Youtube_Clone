@@ -1,0 +1,12 @@
+/*Taking care of the top border first*/
+.hamburger-menu {
+    width: 30px;
+    height: 40px;
+}
+.youtube-logo {
+    width: 100px;
+    height: 40px;
+}
+.top-header{
+    background-color: aquamarine;
+}

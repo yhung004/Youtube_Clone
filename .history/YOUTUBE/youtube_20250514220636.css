@@ -1,0 +1,20 @@
+/*Taking care of the top border first*/
+.hamburger-menu {
+    width: 30px;
+    height: 40px;
+    margin-left: 30px;
+}
+.youtube-logo {
+    width: 100px;
+    height: 40px;
+}
+.top1 {
+    background-color:aquamarine;
+
+}
+.search-box {
+    width: 400px;
+    height: 30px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}

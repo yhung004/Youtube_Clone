@@ -1,0 +1,13 @@
+.main-container {
+    max-width: 50%;
+    margin: auto;
+    border: 2px solid black;
+    border-radius: 3px;
+}
+
+.each-box {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+}

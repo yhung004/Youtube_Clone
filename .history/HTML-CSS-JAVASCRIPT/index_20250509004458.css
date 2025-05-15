@@ -1,0 +1,21 @@
+.container {
+    max-width: 500px;
+    border: 2px solid rgb(225, 220, 220);
+    border-radius: 3px;
+    padding-left: 10px;
+}
+.inboxes {
+    color: rgb(189, 185, 185);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.bottom-container {
+    display: flex;
+    align-items: center;
+    
+}
+.thumbnail {
+    width: 50px;
+    height: 100px;
+    object-fit:fill;
+    border-radius: 50px;
+}

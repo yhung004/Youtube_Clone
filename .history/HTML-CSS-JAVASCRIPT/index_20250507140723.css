@@ -1,0 +1,21 @@
+* {
+    
+    font-weight: lighter;
+}
+.email {
+    margin-bottom: 2px;
+}
+.search {
+    width: 380px;
+    height: 30px;
+    border:1px solid black;
+    border-width: 2px;
+    border-radius: 3px;
+    
+}
+.agree {
+    background-color:blue;
+    color:#fff;
+    font-size: 20px;
+    width: 380px;
+}

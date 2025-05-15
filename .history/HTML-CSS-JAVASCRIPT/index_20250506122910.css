@@ -1,0 +1,11 @@
+* {
+    font-size: 30px;
+}
+.container {
+    margin: 30px;
+}
+.back {
+    font-size: 25px;
+    padding: 10px 6px 10px 6px;
+    font-weight: lighter;
+}

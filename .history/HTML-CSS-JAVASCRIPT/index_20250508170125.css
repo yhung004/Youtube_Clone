@@ -1,0 +1,12 @@
+.main-container {
+    max-width: 50%;
+    margin: auto;
+    border-radius: 2px solid black;
+}
+
+.each-box {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    
+}

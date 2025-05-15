@@ -1,0 +1,26 @@
+
+.request {
+    color:#fff;
+    background-color:#000;
+    border:none;
+    font-size: 30px;
+    font-weight: light;
+}
+.add {
+    background-color:rgb(255, 216, 20);
+    padding: 0 30px 0 30px;
+    border-radius: 50px;
+    border: none;
+    font-size: 20px;
+    font-weight: lighter;
+}
+.sign {
+    background-color:rgb(46, 164, 79);
+    color: white;
+    border-radius: 4px;
+    font-weight: bold;
+    border: none;
+}
+.main-button {
+    margin-left: 45%;
+}

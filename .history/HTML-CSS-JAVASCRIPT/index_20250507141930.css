@@ -1,0 +1,45 @@
+* {
+    
+    font-weight: lighter;
+}
+.email {
+    margin-bottom: 2px;
+}
+.search {
+    width: 380px;
+    height: 30px;
+    border:1px solid black;
+    border-width: 2px;
+    border-radius: 3px;
+    
+}
+.agree {
+    background-color:rgb(41, 41, 212);
+    color:#fff;
+    font-size: 20px;
+    width: 380px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 50px;
+    border:none;
+    cursor:pointer;
+    transition:all .2s;
+}
+.agree:hover {
+background-color:rgb(27, 27, 147);
+color:whitesmoke;
+box-shadow: 3px 3px 2px rgba(0, 0, 0, 0.2);
+}
+.agree:active {
+    color:black;
+    background-color:green;
+    font-weight: bold;
+}
+img {
+    width: 50px;
+    border-radius;50%;
+}
+.bottom {
+    height: 200px;
+    overflow-y: hidden;
+}

@@ -1,0 +1,11 @@
+.main-container {
+    max-width: 50%;
+    margin: auto;
+}
+
+.each-box {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    
+}

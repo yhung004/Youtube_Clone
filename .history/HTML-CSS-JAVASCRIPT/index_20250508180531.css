@@ -1,0 +1,20 @@
+.main-block {
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    background-color: blueviolet;
+    justify-content: space-between;
+    align-items: center;
+}
+.home {
+    color: white;
+    padding-left: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+input {
+    width: 400px;
+    height: 30px;
+    border-radius:20px;
+    border: none;
+}
+

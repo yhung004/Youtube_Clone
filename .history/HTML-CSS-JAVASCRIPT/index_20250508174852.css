@@ -1,0 +1,12 @@
+.main-block {
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    background-color: blueviolet;
+    justify-content: space-between;
+    align-items: center;
+}
+.home {
+    color: white;
+    padding-left: 10px;
+}

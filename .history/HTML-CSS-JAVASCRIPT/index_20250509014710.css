@@ -1,0 +1,52 @@
+.container {
+    width: 400px;
+    border: 2px solid rgb(225, 220, 220);
+    border-radius: 3px;
+    padding-left: 10px;
+    /* height: 150px; */
+}
+.inboxes {
+    color: rgb(189, 185, 185);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 0;
+}
+.bottom-container {
+    margin-top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.thumbnail {
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    margin-right: 10px;
+}
+.inner-container {
+    height: 100px;
+    
+}
+.top {
+    display: flex;
+    justify-content: space-between;   
+}
+.left,
+.time ,
+.middle{
+    margin-bottom: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.left {
+    font-weight: bold;
+}
+.time {
+    color: rgb(168, 161, 161);
+}
+.middle {
+    font-weight: bold;
+    margin-top: 4px;
+}
+.bottom {
+    margin-top: 10px;
+    color: grey;
+}

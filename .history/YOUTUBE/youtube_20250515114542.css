@@ -1,0 +1,146 @@
+body {
+    padding-top: 70px;
+    padding-left: 70px;
+}
+/*Taking care of the top border first*/
+.top-header {
+    width: 100%;  
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 60px;
+    border-bottom: 1px solid rgba(236, 231, 231,.4);
+    box-shadow: 1px 1px 2px rgba(236, 231, 231,.4);
+    z-index: 100;
+    background-color: white;
+}
+.hamburger-menu {
+    width: 25px;
+    height: 40px;
+    margin-left: 30px;
+    margin-right: 20px;
+}
+.youtube-logo {
+    width: 90px;
+    height: 40px;
+}
+.search-box {
+    margin-left: 20px;
+    padding-left: 10px;
+    flex: 1;
+    width: 0;
+    min-width: 0px;
+    height: 39px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-color: rgba(192, 184, 184,.4);
+}
+.search-button {
+    width: 25px;
+    height: 35px;
+    border: 1px solid rgba(192, 184, 184,.4);
+    padding: 1px 10px 1px 10px;
+    margin-left: -1px;
+    background-color: rgba(236, 231, 231,.4);
+    vertical-align: top;
+}
+.microphone {
+    vertical-align: top;
+    width: 25px;
+    height: 35px;
+    border-radius: 30px;
+    padding: 2px 6px 2px 6px;
+    margin-left: 6px;
+    background-color: rgba(236, 231, 231,.4);
+}
+.top2 {
+    display: flex;
+    justify-content: center;
+    flex: 1;
+    max-width: 550px;
+}
+.upload,
+.youtube-apps,
+.notification-icon {
+    width: 35px;
+    height: 35px;
+}
+.notification-box {
+    position: relative;
+}
+.number {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    background-color: rgb(205, 9, 9);
+    border-radius: 30px;
+    text-align: center;
+    font-size: 11px;
+    color: rgb(237, 232, 232);
+    padding: 1px 5px 1px 5px;
+}
+.channel-profile {
+    width: 35px;
+}
+.top3 {
+    display: flex;
+    justify-content: space-between;
+    flex-shrink: 0;
+    width: 200px;
+    margin-right: 20px;
+    margin-left: 30px;
+}
+/*Coming to work on the sidebar*/
+.sidebar {
+    position: fixed;
+    
+    padding-top: 5px;
+    padding-left: 5px;
+    top: 60px;
+    bottom: 0;
+    left: 0px;
+    z-index: 200;
+    border-right: 1px solid rgba(192, 184, 184,.4);
+    background-color: white;
+    border-bottom: 1px solid rgba(236, 231, 231,.4);
+    box-shadow: 1px 1px 2px rgba(236, 231, 231,.4);
+    }
+    .sidebar-icons {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: 30px 0 30px 0;
+    }
+    .sidebar-icons img {
+        width: 25px;
+        }
+        .sidebar-icons div {
+            font-family: Roboto;
+            font-weight: 300px;
+            font-size: 10px;
+            }
+   /*Now coming to work on the main section*/    
+   .body-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-column-gap:20px;
+   }
+   .thumbnail {
+    width: 320px;
+    border-radius: 5px;
+    display: relative;
+   }
+   .thumbnail-box {
+    border: 1px solid black;
+    position: relative;
+   }
+   .timer {
+    background-color:black;
+    color: white;
+    position: absolute;
+    top: 0px;
+   }

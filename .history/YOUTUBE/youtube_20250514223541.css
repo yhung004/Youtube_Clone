@@ -1,0 +1,68 @@
+/*Taking care of the top border first*/
+.top-header {
+    display: flex;
+    justify-content:flex-start
+    
+}
+.hamburger-menu {
+    width: 25px;
+    height: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.youtube-logo {
+    width: 90px;
+    height: 40px;
+}
+.top1 {
+    background-color:aquamarine;
+    margin-right: 330px;
+
+}
+.search-box {
+    width: 400px;
+    height: 39px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-color: rgba(192, 184, 184,.4);
+}
+.search-button {
+    width: 25px;
+    height: 35px;
+    border: 1px solid rgba(192, 184, 184,.4);
+    padding: 1px 10px 1px 10px;
+    margin-left: -1px;
+    background-color: rgba(236, 231, 231,.4);
+    vertical-align: top;
+}
+.microphone {
+    width: 25px;
+    height: 35px;
+    border-radius: 30px;
+    padding: 2px 6px 2px 6px;
+    margin-left: 6px;
+    background-color: rgba(236, 231, 231,.4);
+}
+.top2 {
+   
+    display: flex;
+}
+.upload {
+    width: 40px;
+    height: 50px;
+}
+.youtube-apps {
+    width: 40px;
+    height: 40px;
+}
+.notification-icon {
+    width: 40px;
+    height: 40px;
+}
+.number {
+    width: 10px;
+    height: 5px;
+}
+.channel-profile {
+    width: 50px;
+}

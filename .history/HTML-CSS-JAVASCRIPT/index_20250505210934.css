@@ -1,0 +1,12 @@
+
+.request {
+    color:#fff;
+    background-color:#000;
+    border:none;
+}
+.add {
+    background-color:yellow;
+    padding: 0 30px 0 30px;
+    border-radius: 50px;
+    border: none;
+}

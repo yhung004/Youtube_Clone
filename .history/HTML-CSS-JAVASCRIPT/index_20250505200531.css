@@ -1,0 +1,27 @@
+button {
+    padding: 10px;
+    font-size: 20px;
+    margin-right: 10px;
+}
+.subscribe {
+    background-color: rgb(191, 30, 30);
+    border:none;
+    color: #fff;
+    cursor: pointer;
+}
+.join {
+    background-color:#fff;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(24,24,199);
+    color:rgb(24, 24, 199);
+    border-radius: 5px;
+    
+}
+.tweet {
+    border-radius: 20px;
+    background-color: blue;
+    border: none;
+    color:#fff;
+    
+}

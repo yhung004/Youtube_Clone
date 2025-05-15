@@ -1,0 +1,29 @@
+.main-block {
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    background-color: blueviolet;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+.home {
+    color: white;
+    padding-left: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+input {
+    padding-left: 15px;
+    font-size: 15px;
+    width: 450px;
+    height: 30px;
+    border-radius:20px;
+    border: none;
+}
+.download {
+   background-color: blueviolet;
+   border: 1px solid white;
+   color: white; 
+   margin-right: 10px;
+}
+

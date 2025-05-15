@@ -1,0 +1,17 @@
+a {
+    color:rgb(0,113,113)
+}
+.nike {
+    font-weight: bold;
+}
+.money {
+    color: rgb(0,118,0);
+}
+.add {
+    background-color:rgb(255, 216, 20);
+    border-radius: 10px;
+}
+.buy {
+    background-color:rgb(255,164,28);
+    border-radius:10px;
+}

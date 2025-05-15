@@ -1,0 +1,4 @@
+.each-box {
+    display: flex;
+    flex-direction: row;
+}

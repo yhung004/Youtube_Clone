@@ -1,0 +1,6 @@
+/*The number of pixels signifies the width of each column*/
+/*When 1fr is added, it signifies the values of the free space beside the column*/
+.main {
+    display: grid;
+    grid-template-columns: 100px 1fr;
+}

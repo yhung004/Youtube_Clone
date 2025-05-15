@@ -1,0 +1,21 @@
+.main-container {
+    max-width: 50%;
+    margin: auto;
+    border: 1px solid  grey;
+    border-radius: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    box-shadow: 1px 1px .5px rgba(0, 0, 0, .4);
+    
+}
+
+.each-box {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+}
+.name {
+    color: grey;
+    font-weight: bold;
+}
